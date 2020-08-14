@@ -300,7 +300,7 @@ void generate() {
 
     dstate = SHOWTASK;
   } else if (state == 8) {
-    task = "Это было просто космос! Спасибо за участие!\n\nЧтобы закончить, нажмите ENTER";
+    task = "Спасибо за участие!\n\nЧтобы закончить, нажмите ENTER";
     dstate = SHOWTASK;
   }
 }
